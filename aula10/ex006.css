@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(145, 145, 233);
+}
+
+#area{
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 45px ;
+}
